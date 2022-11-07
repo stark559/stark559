@@ -20,7 +20,7 @@
             <footer size="1" color="gray">
                 <h3>العب مين كرفت ماصدقائك وبني بيوتك ومتاجرك انطلق الان ماذا تنتضر</h3>
             </footer>
-            <img src="1.jfif" width="170px" height="170px">
+            <img src="mohmmed.jpg" width="170px" height="170px">
             <p></p>
             <a href="https://download2389.mediafire.com/fsfpq2ontylg/zewdn4bwto9qf1j/Minecraft.apk"><button class="1">انقر للتحميل </button></a>
         </fieldset>
@@ -46,7 +46,7 @@
             <footer size="1" color="gray">
                 <h3>العب مين كرفت ماصدقائك وبني بيوتك ومتاجرك انطلق الان ماذا تنتضر</h3>
             </footer>
-            <img src="4.jfif" width="170px" height="170px">
+            <img src="" width="170px" height="170px">
             <p></p>
             <a href="https://www.mediafire.com/download/1u88ruftmoaqj95"><button class="3">انقر للتحميل </button></a>
         </fieldset>
